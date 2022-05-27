@@ -1,0 +1,15 @@
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.AssemblyInfo.cs
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\funct\funct\bin\Debug\net6.0\funct.exe
+C:\Users\ANI\source\repos\funct\funct\bin\Debug\net6.0\funct.deps.json
+C:\Users\ANI\source\repos\funct\funct\bin\Debug\net6.0\funct.runtimeconfig.json
+C:\Users\ANI\source\repos\funct\funct\bin\Debug\net6.0\funct.dll
+C:\Users\ANI\source\repos\funct\funct\bin\Debug\net6.0\funct.pdb
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.dll
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\refint\funct.dll
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.pdb
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\funct.genruntimeconfig.cache
+C:\Users\ANI\source\repos\funct\funct\obj\Debug\net6.0\ref\funct.dll
