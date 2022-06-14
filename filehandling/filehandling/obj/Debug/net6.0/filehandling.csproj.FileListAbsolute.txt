@@ -1,0 +1,15 @@
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.csproj.AssemblyReference.cache
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.AssemblyInfoInputs.cache
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.AssemblyInfo.cs
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.csproj.CoreCompileInputs.cache
+C:\Users\ANI\source\repos\filehandling\filehandling\bin\Debug\net6.0\filehandling.exe
+C:\Users\ANI\source\repos\filehandling\filehandling\bin\Debug\net6.0\filehandling.deps.json
+C:\Users\ANI\source\repos\filehandling\filehandling\bin\Debug\net6.0\filehandling.runtimeconfig.json
+C:\Users\ANI\source\repos\filehandling\filehandling\bin\Debug\net6.0\filehandling.dll
+C:\Users\ANI\source\repos\filehandling\filehandling\bin\Debug\net6.0\filehandling.pdb
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.dll
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\refint\filehandling.dll
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.pdb
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\filehandling.genruntimeconfig.cache
+C:\Users\ANI\source\repos\filehandling\filehandling\obj\Debug\net6.0\ref\filehandling.dll
